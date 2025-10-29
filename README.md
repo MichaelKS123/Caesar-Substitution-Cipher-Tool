@@ -244,8 +244,16 @@ This project is released for educational purposes.
 ## 👤 Author
 
 **Michael Semera**
+- LinkedIn: [Michael Semera](https://www.linkedin.com/in/michael-semera-586737295/)
+- GitHub: [MichaelKS123](https://github.com/MichaelKS123)
+- Email: michaelsemera15@gmail.com
 
-Created as an educational tool to demonstrate classical cryptography techniques.
+## 📞 Contact & Support
+
+For questions, suggestions, or collaboration opportunities:
+- Open an issue on GitHub
+- Email: michaelsemera15@gmail.com
+- LinkedIn: [Michael Semera](https://www.linkedin.com/in/michael-semera-586737295/)
 
 ---
 
@@ -268,3 +276,4 @@ This software is provided for educational purposes only. The author is not respo
 
 
 *Stay curious, stay secure!* 🔐
+
