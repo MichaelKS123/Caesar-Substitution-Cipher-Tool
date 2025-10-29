@@ -1,5 +1,5 @@
 # Secure Text: A Classical Cipher Tool
-**by Michael**
+**by Michael Semera**
 
 Version 1.0
 
@@ -209,8 +209,8 @@ $ ./securetext
 
 ╔════════════════════════════════════════════════════════╗
 ║                                                        ║
-║          SECURE TEXT: A CLASSICAL CIPHER TOOL         ║
-║                    by Michael                          ║
+║          SECURE TEXT: A CLASSICAL CIPHER TOOL          ║
+║                    by Michael Semera                   ║
 ║                                                        ║
 ╚════════════════════════════════════════════════════════╝
 
@@ -265,5 +265,6 @@ This software is provided for educational purposes only. The author is not respo
 ---
 
 **Thank you for using Secure Text!**
+
 
 *Stay curious, stay secure!* 🔐
